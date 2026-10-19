@@ -1,0 +1,5 @@
+# Example program for the Mini 6502 Compiler
+a = 5
+b = a + 3
+c = b - a + 10
+d = c + c - 1
