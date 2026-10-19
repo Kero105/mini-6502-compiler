@@ -1,0 +1,5 @@
+# Multiplication example: * is done before + and -
+a = 6
+b = a * 7
+c = 2 + 3 * 4
+d = b - a * 5
